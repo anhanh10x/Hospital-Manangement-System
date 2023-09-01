@@ -1,5 +1,11 @@
-# Hospital Management Sytem
- 
-- This is a project related to hospital management. The main objective of this project is helping doctors and patients to book, send and check requests conveniently.
-- The main function of the project includes: send request from patient to corresponding doctor who is chosen by patient, read request and answer it from doctocs. 
-- The project is built in three-layer architecture. The DTO is used to define the struct of data used. The DAL layer is used to get data from data source. The BLL layer is used to excute and analyze the data from data source. And GUI layer is used to present excuted data and interact with the users.
+- This project revolves around hospital management, with its primary goal being to facilitate seamless booking, request transmission, and checking for both doctors and patients.
+- The project's core functionalities encompass the following:
+  + Request Transmission: Patients can effortlessly send requests to their chosen doctors.
+  + Request Processing: Doctors can efficiently read and respond to patient requests.
+- The project is designed using a robust three-layer architecture:
+  + DTO (Data Transfer Object): This layer is responsible for defining the data structure used within the system.
+  + DAL (Data Access Layer): This layer facilitates the retrieval of data from the data source.
+  + BLL (Business Logic Layer): Here, data is processed and analyzed, ensuring efficient execution.
+  + GUI (Graphical User Interface) Layer: This layer is responsible for presenting the processed data and enabling user interactions.
+- This architecture streamlines the hospital management process, ensuring a seamless experience for both medical professionals and patients.
+This revised version provides more clarity and structure to your description of the project, making it easier to understand. If you have any further questions or need additional improvements, please let me know!
